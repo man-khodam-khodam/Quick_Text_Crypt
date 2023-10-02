@@ -1,3 +1,7 @@
+
+# github   : github.com/man-khodam-khodam
+# telegram : t.me/man_khodam_khodam
+
 import base64
 
 BASE_OPTIONS = {
@@ -83,3 +87,6 @@ def encode(text, base):
         return "Encoding error"
 
 main_menu()
+
+# github   : github.com/man-khodam-khodam
+# telegram : t.me/man_khodam_khodam
